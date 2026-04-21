@@ -1,4 +1,4 @@
-# 🐾 Blobby — Tiny Tamagotchi
+# 🐾 LULU — Tiny Tamagotchi
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white&style=flat-square)
